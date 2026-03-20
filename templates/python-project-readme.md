@@ -4,8 +4,8 @@ Short description of the Python project.
 
 ## Features
 - Easy to use
-- Lightweight
-- Useful for automation
+- Simple structure
+- Useful for automation or utilities
 
 ## Installation
 ```bash
