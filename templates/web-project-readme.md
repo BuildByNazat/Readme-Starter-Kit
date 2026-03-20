@@ -47,13 +47,13 @@ npm run build
 ## Project Structure
 
 ```text
-├── public/       # Static files
-├── src/          # Source files
-│   ├── components/ # React/Vue components
-│   ├── assets/   # Images, fonts, etc.
-│   └── index.js  # Entry point
-├── package.json  # NPM dependencies and scripts
-└── README.md     # Project documentation
+├── public/           # Static files
+├── src/              # Source files
+│   ├── components/   # React/Vue components
+│   ├── assets/       # Images, fonts, etc.
+│   └── index.js      # Entry point
+├── package.json      # NPM dependencies and scripts
+└── README.md         # Project documentation
 ```
 
 ## License
